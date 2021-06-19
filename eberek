@@ -3,10 +3,10 @@ RPG – Ficha – lv 15
 Pv – 40 /  Pm – 40 (+2 por nível)
 
 Força: 02
-Habilidade: 03(+1)
-Armadura: 01(+1)
+Habilidade: 03
+Armadura: 0
 Resistência: 01
-PdF: 05(+4)
+PdF: 05
 
 Fogo: 03
 Água: 0
@@ -15,7 +15,7 @@ Ar: 01
 
 Ponto Heroico: 1
 
-Vantagens: Mago nato, Tiro múltiplo(+2)  /  Desvantagem: Modelo Especial   /  Perícia: Mecânica (Máquinas)
+Vantagens: Mago nato /  Desvantagem: Modelo Especial   /  Perícia: Mecânica (Máquinas)
 
 Magias
 
@@ -51,6 +51,8 @@ PeaceMaker
 * Pistola criada pelos demônios com balas infinitas e que podem ter seu poder amplificado quando imbuídas por umas das magias conhecidas
 
 * Mecanica bala comum dano = pdf tipo perfuracao | lancar magias atraves da bala, substituindo o catalizador.
+
+* 1d6 | coisa ruim [vou morrer] (6) ou repeticao da acao (1) ou 2/3/4/5
 
 22/04/2020
 
