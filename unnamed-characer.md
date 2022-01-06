@@ -1,7 +1,6 @@
-# Unnamed Character
+#rpg #tormenta
 
-Created: November 21, 2021 4:46 PM
-Tags: RPG
+# Unnamed Character
 
 Pontos de Vida: 23
 
